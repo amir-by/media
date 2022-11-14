@@ -1,0 +1,18 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+body{
+    background: #34495e;
+    color: #ecf0f1;
+}
+.success{
+    outline-style: none;
+    border: yellowgreen 2px solid;
+}
+.error{
+    outline-style: none;
+    border: red 2px solid;
+}
+.ipt{
+    margin-top: 20px;
+    padding: 10px;
+    height: 40px;
+}
